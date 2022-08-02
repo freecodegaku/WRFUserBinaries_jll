@@ -5,7 +5,7 @@ libgfortran_version = "5.0.0"
 os = "macos"
 
     [[WRFUserBinaries.download]]
-    sha256 = "f582080e9919e80dcac6d853b21dd4df3cee1245dea42069ab82ab44e8cade2e"
+    sha256 = "52c6037085f715a528da5840b8fc02a85d2ed8846997f97a530033ff7106901e"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "aarch64"
@@ -15,7 +15,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "35d9ea99af429412b032a79d02f8f0415eee8afafc6b1d4e959d743b48d3c71c"
+    sha256 = "1eef6fefe5f030add2d8d07c6e66f3f1d8ad7f995b85c3a0ddd528e521d99135"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "aarch64"
@@ -25,7 +25,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "03eace59325f1cbc0e012e2f4f7cbc53ed499e473ea1cc1211aacd3b0736a459"
+    sha256 = "2862d035a52452caa1b2694cf83e6a7d5d6ad7a4bea9d0befab350aa8f382e5a"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "aarch64"
@@ -35,7 +35,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "9f17668a3635b13d85f2ec58100c10372e7dd8d00f2dbc409198cf751163f212"
+    sha256 = "2c6563925be92c1cc66eb6d8f997a43949a9393db20204b4ce781c23848f6a59"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "aarch64"
@@ -45,7 +45,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "a8a78d5f4f570154f60fdfd8f675063db1889684e8e182d78a6604fef47a8378"
+    sha256 = "0dbdad2b4fdeedc17622060b69a2fb5459f2a900d6db37f079f5def1c22445e2"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.aarch64-linux-musl-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "aarch64"
@@ -55,7 +55,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "92e072a20301ca271b5d85c0f8e250f6b75fc0245d69a6576ac0eba622fe0752"
+    sha256 = "6e381f80b365ec22efcd9ef742537afa411d01c580f19ab1dd28f796f529d135"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.aarch64-linux-musl-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "aarch64"
@@ -65,7 +65,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "cd05e56068a46cc4e0287f5646326fcc6aa3b7c1473f5278229320385ef5e51d"
+    sha256 = "6ead073c64d45f006b4d7576f24b311de67cd079afa69af011e7ef2c3c13a0dc"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.aarch64-linux-musl-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv6l"
@@ -76,7 +76,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "54430fea7b8cd5dec055cb734bb7f14a3646b80b015716e386abec609d681ab3"
+    sha256 = "7c193ec8a9cc52cedd23f6e405f205bccc091528d43f93dd184cad98e5edcdc7"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv6l"
@@ -87,7 +87,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "e789b64367ce13e849ee490838bf78f38e340be961ab312c30d3c25f626174de"
+    sha256 = "dde241c2e2e8acff7d9ec72bdda6c9f4e57c25cac1e6dd5c2e97269112261cce"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv6l"
@@ -98,7 +98,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "0da4e3884cd294959732c7e232c3f567b4c1b506ee15fe670a478f61d861abea"
+    sha256 = "d96ada5dea6dba095c24a393c2ebdc3d5a2bf39f74dd6bc4e730489f5ec85ffe"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv6l"
@@ -109,7 +109,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "4310dc0f8e5439d35ca13f414a64885d73c4344d099cd4a9c435c76f0b6ee894"
+    sha256 = "5235884e053457fd7cbb19c282a66bad4c632b2cc643004e1627d5483daf5d66"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv6l"
@@ -120,7 +120,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "7809ece7a284089a6b57905d0086e53e0f0c9c0720e795a318ecbcd2bf23637e"
+    sha256 = "ada42de2d95ec4dab01a3edc292ab1dab43fabf3511ae4acc28811888881723b"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv6l"
@@ -131,7 +131,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "0a53e165e2d27dee7ac7f8749423d51dfba74d10483bcb153095591c1ecb5c14"
+    sha256 = "632effff18ea54c75ec605a424eda65bf521122a4900996f6903ddc18edd9de7"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv7l"
@@ -142,7 +142,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "40e10c8e4c0ef758ebc186104cf23f57e01835ea709b85d9e27a9965c56693d6"
+    sha256 = "c9d64bcff55cbcad29d81825e39580ac0c7e039b0f3c30ac806833ec0e0d927e"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv7l"
@@ -153,7 +153,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "545c14bfc2da10732314acf40e7bf68b85f669c0f6e92d25600041e678b3ebd4"
+    sha256 = "60138219301d0b10176e0689d0eefc577bf81b4ab00b1405301f859c73575c48"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv7l"
@@ -164,7 +164,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "83d90492afe5e2c3c6982861b39a7e1440f897aad16986d671a09dbff1bed42d"
+    sha256 = "b11bfed8927103ab3fe5cae7998bc5ace305fd4975de3c38236fe94749a5a2c4"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv7l"
@@ -175,7 +175,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "8d17c021d2063364b28a45cebcea355b2102c8e7be079be3f6f124e076d7724f"
+    sha256 = "e1dc9a385080874b1ab0586bd747dc078b8b918ff107310360e1f658016d99ea"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv7l"
@@ -186,7 +186,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "d54a16a112b7968ccba07e6279e97ce82642dda52096eb3365b38667ce3139b0"
+    sha256 = "5d5908535ec5a65c2a1ad0388a4f7c734d6ec6ace3b6c96c267a81cb15aed8ee"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "armv7l"
@@ -197,7 +197,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "3cfcbd1463fd32c955ca79c10b214f985e22181788621e362907c86d76eaac5f"
+    sha256 = "abf031b9264a6bf98659c2f5eff425c2d0545756bad171b5f0e68478b413373b"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
@@ -207,7 +207,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "da52836169ab4a87d7bee2a15b6743ae6edf2bce2a5143e4b8947e7d7eae6258"
+    sha256 = "5ec9dcd512c3359a8ce6608fd110f0fd0000517edc99fc57b8196912784f3bcf"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-linux-gnu-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
@@ -217,7 +217,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "552b6deb963144923596e430731333b991129abcfe02e70fe16814f7fffbfe81"
+    sha256 = "73980d284d0700dd85613d046d68f8e6bf7fc11b4c2fb497dd376c8b2bbf3197"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-linux-gnu-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
@@ -227,7 +227,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "390bf16f7d920d42967a806bae4468185650776fc413efb2611870f291ec42a1"
+    sha256 = "c025bcf6b00d7ef5bf9b85ce07b9d58e9797e4d360263b759825adce380502d2"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-linux-gnu-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
@@ -237,7 +237,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "31d19063a6ae9b7e0df0c924798e30c52a59891d13dabd815d82b4de6ce1960e"
+    sha256 = "2cfca8e958af818408a9e326c8d02f47f20baa9c124738a212c2cc2c78b7716b"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-linux-musl-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
@@ -247,7 +247,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "331340d20d48ccdb1e6bfe7b1534b2d693ccbd13fe5eac3965e708d146b97520"
+    sha256 = "9322d30440b1d13be7751ceacada64f1977f71bdf333961dc5b48069792adccb"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-linux-musl-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
@@ -257,34 +257,34 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "7dfb22475df18d395f7b529f07ccbe352010e0cbf2ccbe5b8cba236a280262d6"
+    sha256 = "47f505c2f17002fc8af0a9de7625c880aeb94cfe22b1073cbce686e6f9c6586d"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-linux-musl-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
-git-tree-sha1 = "675190dd7b0f6bccc2147a0dc289692c00e4861d"
+git-tree-sha1 = "f68b9c374fd4d4309934e18702e3fed3843b45dc"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[WRFUserBinaries.download]]
-    sha256 = "b7d6b8392ccfe5a0c84bb8313c7550dddbef7cf552d170eadbad7348a9b9275c"
+    sha256 = "5325443043c907a5c3a3f6dad0c92ad9f688f54004cf58819e0c1837b83002d7"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-w64-mingw32-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
-git-tree-sha1 = "8ede111cc1fc6437e4b2f70a158aea7c910114c9"
+git-tree-sha1 = "0452f2dd298bed45f12f57bcf3ec5502375580cd"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[WRFUserBinaries.download]]
-    sha256 = "f080a2e289e589df12dfe236a70d49ee902b8ad295d8aa0d3c32b16db7a865f4"
+    sha256 = "d722ef63495d4dcee75c7a75bdbf8a30d8faaaf8234d3450d903b75e72a738ce"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-w64-mingw32-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "i686"
-git-tree-sha1 = "35658372d1405ad9d82407bf36c3b8b1948b9363"
+git-tree-sha1 = "914d0a1a1c9b7355970a3312b249ecfb1d548959"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[WRFUserBinaries.download]]
-    sha256 = "c86cdaf66217258a4f7b32deb8d937d38871e32c8cebd986e6dd4d6ecf318c91"
+    sha256 = "fc4cfebd7b4cbf3d6c397e961e8e29f0d4a57a07aed3828ee36d8089b7016598"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.i686-w64-mingw32-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "powerpc64le"
@@ -294,7 +294,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "f13518368fedf29fe3b4f612c17cd706e5e285b5064f62cf83561afa1e0b9b56"
+    sha256 = "40047ad91c7b607c4b9cd9adf4f238ee08e2807c693a019b36e4af5c11929c66"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "powerpc64le"
@@ -304,7 +304,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "72613bb4abfa8c63e57e679ff1b44321da76a0026146667b4d8822aaf232cc48"
+    sha256 = "3938420d2d340065c081157f09691a6d7f4cd821fd8036f7e625ced9ac9497be"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "powerpc64le"
@@ -314,7 +314,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "480c6dfd1cb374c1ba485fe8312fa5fd968746e004bb4bbc30719775b814b2f7"
+    sha256 = "741d805bea5d3108cfb2699ded9cacdcc440d588c7460955950fb7799322c339"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -323,7 +323,7 @@ libgfortran_version = "3.0.0"
 os = "macos"
 
     [[WRFUserBinaries.download]]
-    sha256 = "22926a7e04ae590d0eab226afbcdb7911d78226c6fd7ee5a2956576bbeb334f6"
+    sha256 = "84115ec4adbfcbce89294935972e244d2f7862ce96aa0454245b6c23fdc44965"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -332,7 +332,7 @@ libgfortran_version = "4.0.0"
 os = "macos"
 
     [[WRFUserBinaries.download]]
-    sha256 = "6f6d0066b4de9db8ddcf69bec16ef06e85c873acd10d67552595f900400830b0"
+    sha256 = "c0875a0966df8b49639c7f3401fed968c80bbbf42e262e2106fabf4b891a9cc9"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -341,7 +341,7 @@ libgfortran_version = "5.0.0"
 os = "macos"
 
     [[WRFUserBinaries.download]]
-    sha256 = "411c75fcb831d766e1389aff2b8a81f55dabb2dbb83ac4185a0440bb6acf250d"
+    sha256 = "21f4d905ccc0b4d24239dcc0042a4cf39b7e63576474b41246815e874d19efb2"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -351,7 +351,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "483326dc1cf02e3b2958d4dd8e83e3be413095240d356f74c00855311c20d2cf"
+    sha256 = "057838b42f2ddc74bf6faf005f8179032e0cfbfefed1757eb3200bde90394042"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -361,7 +361,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "c190b5cfb52f16dc03e6cbbe95bdb23ac0eb9c890b6055c25fe37734965b594f"
+    sha256 = "38c8b6df20313f467014339ea596c11c9e1a9661986719156ee9f98a1a08f487"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -371,7 +371,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "0d5e3ac11fee75d042119b91c6966f54f0796c2a9fd398b7a4e9c5564fac8225"
+    sha256 = "b04004498e68049f7d5f6f6352c14b0bda23757d5d676ce60ac8c694d1f2a124"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -381,7 +381,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "335ce846b7afac79da4b5020a29dfe95ef80ac65a6f92142e8b17643ba413722"
+    sha256 = "d8a2227e8515b785d8c2bb6250492256fda5a304e9c7dff0cc441f891ab910d8"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-linux-musl-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -391,7 +391,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "a0214a554677c523c1745ca4723c657395be58e4899207fa80ffea8fa2b275d6"
+    sha256 = "0c333fa6acefdcebe8edb73a1c3531c9e743c9fd3fad0db7dd052bda9749714b"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-linux-musl-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -401,7 +401,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[WRFUserBinaries.download]]
-    sha256 = "18631ebfcf425a1ce4f9809504ffa397649e0c93f87a181d24ba7d5170beda5e"
+    sha256 = "589a7b76b4374b4501f8c067aa72e26670a391eea4b2bfc3caf9aa3ad4eb87c3"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-linux-musl-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -410,7 +410,7 @@ libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[WRFUserBinaries.download]]
-    sha256 = "74953946153da2ce9bb4a9baf1946c0866250c73bc70669bd1ba905592395104"
+    sha256 = "148a02e32a4e929e4f48c2df11ace77811d3cbaffd5eae4e8f0fb7cf7e80ab9d"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -419,7 +419,7 @@ libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[WRFUserBinaries.download]]
-    sha256 = "1638c10d74d557e24e0477b9dbd55c081c86406d990c46ed2dc247dc41adb841"
+    sha256 = "5b662130fc641195e24893739c7736b11a2067b7bb552e1f36a74d216f491da6"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
@@ -428,32 +428,32 @@ libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[WRFUserBinaries.download]]
-    sha256 = "fc27f6fb3fd93758e095b598c0ffc4ad2b3c22812558e949b1f6544d27e272b7"
+    sha256 = "6b7bffb7327c2edd2ffe0c5dc49aff440f9caf9efc7a8374513f43fa92295c00"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
-git-tree-sha1 = "46a97dc7626435e248b2ab4daeda25f093c3fdf6"
+git-tree-sha1 = "ee565f59de87bd252955be123e63130d706117ec"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[WRFUserBinaries.download]]
-    sha256 = "25289c638aa67fe1b79eedddc3bc7f14a12942898c8307bd658fa3bde3d93173"
+    sha256 = "b029e9e78af813f3bf87e268a330a288bf2207fae454904238cf22065d58072f"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
-git-tree-sha1 = "08b543390735c4bd3555fdc6881afd80aab86a9f"
+git-tree-sha1 = "90968ac75c781bd99f62bf9607a1679b564f9564"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[WRFUserBinaries.download]]
-    sha256 = "75bd1d52285f8730f53d81564975010052a47bd60921dc1110a64b7f7f41ba9d"
+    sha256 = "80c94233c8acea5e65b020113fa7cb6c6a3d0eaaad9b215467d7d1ad12410325"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[WRFUserBinaries]]
 arch = "x86_64"
-git-tree-sha1 = "ac88522850b46c7ab312e6ea064cdee5475ea899"
+git-tree-sha1 = "37cb66f783cd673be3b82c4aab42e5f671099069"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[WRFUserBinaries.download]]
-    sha256 = "80eca3abc2359e7eb12af4b0c174934520fe54d4ca67ba92f6fbe9982c5b79fc"
+    sha256 = "167f7f75cd392913df8a7201dbbc01ec94810232a0f49a2daae34c517cfd866e"
     url = "https://github.com/freecodegaku/WRFUserBinaries_jll/releases/download/WRFUserBinaries-v0.0.1+0/WRFUserBinaries.v0.0.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
